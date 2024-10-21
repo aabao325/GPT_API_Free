@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
+<img src="./images/logo.jpg" alt="icon" width="50px"/>
 <h1 align="center">GPT-API-Free</h1>
 
 支持 **o1-mini** / **o1-preview** / **GPT-4o** / **GPT-4o-Mini** / **Google Gemini** / **Anthropic Claude** / **DeepSeek** / **Midjourney**/ stable-diffusion / Doubao-pro-128k / Embeddings / DALL·E / Whisper / Text-Davinci 等等
 
 **全球动态CDN加速 国内直连无需代理**
 
-[领取公益免费API密匙](https://api.aabao.vip/home) / [支持付费API](https://api.aabao.vip/) / [服务可用性](https://status.aabao.vip/) / [QQ群: 743438982](https://qm.qq.com/q/uYLy9BkqUU)
+[领取公益免费API密匙](https://api.aabao.vip/home) / [支持付费API](https://api.aabao.vip/) / [实时状态监控](https://status.aabao.vip/) / [QQ群: 743438982](https://qm.qq.com/q/uYLy9BkqUU)
 
 ![ChatGPT](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6fj6a008x8yomadmawf22/badge.svg)
 ![GPT 4o](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6j31d00bv8yom4kqo87g2/badge.svg)
@@ -36,7 +36,7 @@
 
 
 
-❗️*如果遇到无回复，报错等情况，可以查看 [实时监控状态](https://status.aabao.vip)，确认服务状态是否正常，以帮助排查问题。*
+❗️*如果遇到无回复，报错等情况，可以查看 [实时状态监控](https://status.aabao.vip)，确认服务状态是否正常，以帮助排查问题。*
 
 ❗️**公益免费API密匙仅可用于个人非商业、教育、非营利性科研工作中。免费API密匙严禁商用，严禁大规模训练商用模型！训练科研用模型请提前加群联系我们。**
 
