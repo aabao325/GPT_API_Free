@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/logo.jpg" alt="icon" width="50px"/>
+<img src="./images/logo.png" alt="icon" width="50px"/>
 <h1 align="center">GPT-API-Free</h1>
 
 支持 **o1-mini** / **o1-preview** / **GPT-4o** / **GPT-4o-Mini** / **Google Gemini** / **Anthropic Claude** / **DeepSeek** / **Midjourney**/ stable-diffusion / Doubao-pro-128k / Embeddings / DALL·E / Whisper / Text-Davinci 等等
