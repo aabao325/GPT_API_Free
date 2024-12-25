@@ -6,7 +6,7 @@
 
 **全球动态CDN加速 国内直连无需代理**
 
-[领取公益免费API密匙](https://api.aabao.top/home) / [支持付费API](https://api.aabao.top/) / [实时状态监控](https://status.aabao.top/) / [QQ群: 743438982](https://qm.qq.com/q/uYLy9BkqUU)
+[领取公益免费API密匙](https://api.aabao.top/home) / [支持付费API](https://api.aabao.top/) / [实时状态监控](https://status.aabao.top/) / [微信交流群](https://img.aabao.vip/wxqun-api.jpg)
 
 </div>
 
