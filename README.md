@@ -46,7 +46,22 @@
 ```markdown
 gpt-4o,gpt-4o-mini,gpt-4o-2024-08-06,claude-3-haiku-20240307,claude-3-5-sonnet-20240620,gemini-1.5-pro-exp-0801,gemini-1.5-pro-latest,deepseek-chat,deepseek-coder
 ```
+<<<<<<< HEAD
 - **转发Host: `https://api.aabao.top` (全球加速，延时更低)**
+=======
+- 最新免费支持以下勾选模型：
+   + [x] gpt-3.5-turbo
+   + [x] gpt-3.5-turbo-16k
+   + [x] gpt-3.5-turbo-0125
+   + [x] gpt-3.5-turbo-1106
+   + [x] gpt-4o-mini
+   + [x] gpt-4o
+   + [x] gpt-4o-2024-08-06
+   + [ ] claude系列（限量开放）
+   + [ ] gemini系列（限量开放）
+   + [ ] deepseek系列（限量开放）
+- **转发Host: `https://api.aabao.vip` (全球加速，延时更低)**
+>>>>>>> 2447d6df1bf91e230fb29ea3b46a649030f4c10f
 
 
 我们会定期根据使用量进行相应的扩容，只要不被官方制裁我们会一直提供免费API，如果该项目对你有帮助，还请为我们点一个***Star***。如果遇到问题可以在[Issues](https://github.com/aabao325/GPT_API_Free/issues)中反馈，有空会解答。
