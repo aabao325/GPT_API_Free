@@ -3,7 +3,7 @@ from openai import OpenAI
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
     api_key="YOUR API KEY",
-    base_url="https://api.aabao.vip/v1"
+    base_url="https://api.aabao.top/v1"
 )
 
 

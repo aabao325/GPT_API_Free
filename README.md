@@ -6,14 +6,7 @@
 
 **全球动态CDN加速 国内直连无需代理**
 
-[领取公益免费API密匙](https://api.aabao.vip/home) / [支持付费API](https://api.aabao.vip/) / [实时状态监控](https://status.aabao.vip/) / [QQ群: 743438982](https://qm.qq.com/q/uYLy9BkqUU)
-
-![ChatGPT](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6fj6a008x8yomadmawf22/badge.svg)
-![GPT 4o](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6j31d00bv8yom4kqo87g2/badge.svg)
-![GPT 4o Mini](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0m25s043en28yom97zx6axd/badge.svg)
-![Google Gemini](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6o0e100g98yomjgf7ys2w/badge.svg)
-![Anthropic Claude](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6pd7y00hn8yom7i2cefzf/badge.svg)
-![DeepSeek](https://tianji.aabao.vip/monitor/clnzoxcy10001vy2ohi4obbi0/cm0d6l7hk00dn8yomz5j7sywp/badge.svg)
+[领取公益免费API密匙](https://api.aabao.top/home) / [支持付费API](https://api.aabao.top/) / [实时状态监控](https://status.aabao.top/) / [QQ群: 743438982](https://qm.qq.com/q/uYLy9BkqUU)
 
 </div>
 
@@ -36,7 +29,7 @@
 
 
 
-❗️*如果遇到无回复，报错等情况，可以查看 [实时状态监控](https://status.aabao.vip)，确认服务状态是否正常，以帮助排查问题。*
+❗️*如果遇到无回复，报错等情况，可以查看 [实时状态监控](https://status.aabao.top)，确认服务状态是否正常，以帮助排查问题。*
 
 ❗️**公益免费API密匙仅可用于个人非商业、教育、非营利性科研工作中。免费API密匙严禁商用，严禁大规模训练商用模型！训练科研用模型请提前加群联系我们。**
 
@@ -48,22 +41,22 @@
 
 ## 公益免费使用
 
-- **🚀[领取内测免费API密匙](https://api.aabao.vip/home)**
+- **🚀[领取内测免费API密匙](https://api.aabao.top/home)**
 - 公益免费版目前支持模型如下：（需要更稳定快速的gpt-4请使用付费版）
 ```markdown
 gpt-4o,gpt-4o-mini,gpt-4o-2024-08-06,claude-3-haiku-20240307,claude-3-5-sonnet-20240620,gemini-1.5-pro-exp-0801,gemini-1.5-pro-latest,deepseek-chat,deepseek-coder
 ```
-- **转发Host: `https://api.aabao.vip` (全球加速，延时更低)**
+- **转发Host: `https://api.aabao.top` (全球加速，延时更低)**
 
 
 我们会定期根据使用量进行相应的扩容，只要不被官方制裁我们会一直提供免费API，如果该项目对你有帮助，还请为我们点一个***Star***。如果遇到问题可以在[Issues](https://github.com/aabao325/GPT_API_Free/issues)中反馈，有空会解答。
 
-该API Key用于转发API，需要将Host改为`api.aabao.vip`(全球首选)。
+该API Key用于转发API，需要将Host改为`api.aabao.top`(全球首选)。
 
 ## 付费版API
 - 纯公益提供免费Key显然不是能持久运营下去的方案，所以我们引入付费API Key维持项目的日常开销，以促进项目的良性循环，还望大家理解。
-- [购买付费Key](https://api.aabao.vip/home)
-- [付费版价格表](https://api.aabao.vip/model)
+- [购买付费Key](https://api.aabao.top/home)
+- [付费版价格表](https://api.aabao.top/model)
 
 1. 支持**更稳定更快速的GPT4 API**，GPT4体验更好，无限使用，价格低于官方，充值更便捷。
 2. 同官网计费策略，流式问答使用tiktoken库准确计算Tokens，非流式问答直接使用官方返回Tokens用量计费。
@@ -72,11 +65,11 @@ gpt-4o,gpt-4o-mini,gpt-4o-2024-08-06,claude-3-haiku-20240307,claude-3-5-sonnet-2
 
 ## 如何使用
 - 由于频繁的恶意请求，我们不再直接提供公共的免费Key，现在需要你使用你的Github账号绑定来领取你自己的免费Key。
-- 🚀[领取内测免费API密匙](https://api.aabao.vip/home) 或 [购买内测付费API Key](https://api.aabao.vip/)
-- 转发Host: `https://api.aabao.vip` (全球加速，延时更低)
-- 余额和使用记录查询: [余额查询](https://api.aabao.vip/log)
-- 转发API无法直接向官方接口api.openai.com发起请求，需要将请求地址改为api.aabao.vip才可以使用，大部分插件和软件都可以修改。
-- 遇到问题可以前往[One API Status](https://status.aabao.vip/)查看接口可用性。
+- 🚀[领取内测免费API密匙](https://api.aabao.top/home) 或 [购买内测付费API Key](https://api.aabao.top/)
+- 转发Host: `https://api.aabao.top` (全球加速，延时更低)
+- 余额和使用记录查询: [余额查询](https://api.aabao.top/log)
+- 转发API无法直接向官方接口api.openai.com发起请求，需要将请求地址改为api.aabao.top才可以使用，大部分插件和软件都可以修改。
+- 遇到问题可以前往[One API Status](https://status.aabao.top/)查看接口可用性。
 
 ## 常见软件/插件使用方法
 
@@ -91,8 +84,8 @@ from openai import OpenAI
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
     api_key="YOUR API KEY",
-    base_url="https://api.aabao.vip/v1"
-    # base_url="https://api.aabao.vip/v1"
+    base_url="https://api.aabao.top/v1"
+    # base_url="https://api.aabao.top/v1"
 )
 ```
 
@@ -100,14 +93,14 @@ client = OpenAI(
 
 修改环境变量OPENAI_API_BASE，各个系统怎么改环境变量请自行搜索，修改环境变量后不起作用请重启系统。
 ```bash
-OPENAI_API_BASE=https://api.aabao.vip
-或 OPENAI_API_BASE=https://api.aabao.vip/v1
+OPENAI_API_BASE=https://api.aabao.top
+或 OPENAI_API_BASE=https://api.aabao.top/v1
 ```
 ### **开源gpt_academic**
 找到`config.py`文件中的`API_URL_REDIRECT`配置并修改为以下内容：
 ```python
-API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.aabao.vip/v1/chat/completions"}
-# API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.aabao.vip/v1/chat/completions"}
+API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.aabao.top/v1/chat/completions"}
+# API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://api.aabao.top/v1/chat/completions"}
 ```
 ### **BotGem(AMA)**
 
@@ -123,7 +116,7 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 
 下载链接：https://github.com/Bin-Huang/chatbox/releases
 
-使用方法：如图在设置中填入购买的密钥，并将代理设置为`https://api.aabao.vip`即可
+使用方法：如图在设置中填入购买的密钥，并将代理设置为`https://api.aabao.top`即可
 
 ### **Zotero插件**
 
@@ -133,7 +126,7 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 
 安装好插件后使用以下命令设置，还是不会可以去b站搜教程。
 ```
-/api https://api.aabao.vip
+/api https://api.aabao.top
 
 /secretKey 购买的转发key 记住别忘记带sk-
 
@@ -145,7 +138,7 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 
 下载链接：https://github.com/windingwind/zotero-pdf-translate/releases
 
-接口地址填写: https://api.aabao.vip/v1/chat/completions
+接口地址填写: https://api.aabao.top/v1/chat/completions
 
 不用管状态是否显示可用 填上之后就可以了
 
@@ -153,10 +146,10 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 
 官网链接：https://chatgpt-sidebar.com/
 
-安装好插件后进入设置页面，如图所示修改设置，将url修改为 `https://api.aabao.vip` 。
+安装好插件后进入设置页面，如图所示修改设置，将url修改为 `https://api.aabao.top` 。
 
 ### **Jetbrains插件ChatGPT - Easycode**
 
-安装好插件后在Settings > Tools > OpenAI > GPT 3.5 Turbo中如图所示配置好插件，重点要将Server Settings 修改为 `https://api.aabao.vip/v1/chat/completions` 。并勾选Customize Server。
+安装好插件后在Settings > Tools > OpenAI > GPT 3.5 Turbo中如图所示配置好插件，重点要将Server Settings 修改为 `https://api.aabao.top/v1/chat/completions` 。并勾选Customize Server。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aabao325/GPT_API_Free&type=Date)](https://star-history.com/#aabao325/GPT_API_Free&Date)
